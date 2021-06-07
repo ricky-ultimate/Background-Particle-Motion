@@ -1,0 +1,8 @@
+{
+  "name": "Background Collision",
+  "version": "1.0.0",
+  "description": "A background particle motion with bounce and mouse effects. Also, the particle motion and size changes depending on the size of the screen",
+  "main": "script.js",
+  "author": "Ricky Ultimate",
+  "license": "MIT"
+}
