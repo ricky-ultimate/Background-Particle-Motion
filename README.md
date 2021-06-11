@@ -7,4 +7,4 @@ A web-dev project with mouse and bounce movement transitions
   Background Particle collisions</a> by RickyUltimate-innov (<a href="https://codepen.io/RickyUltimate-innov">@RickyUltimate-innov</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
